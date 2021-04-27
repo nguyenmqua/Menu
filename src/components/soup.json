@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tom Kha Gai (for 2) ",
+    "price": "10.50",
+    "description": "Chicken coconut soup with galangal, kaffir lime leaves, mushrooms and onions. Gluten-free. Please specify – mild, medium, hot, Thai hot."
+  },
+  {
+    "id": 2,
+    "name": "Tom Yum Goong (for 2) ",
+    "price": "`9.95",
+    "description": "Clear broth spicy and sour soup with shrimp, lemon grass, onions, mushrooms and basil leaves. Gluten-free. Please specify – mild, medium, hot, Thai hot."
+  },
+  {
+    "id": 3,
+    "name": "Rice Noodle Soup (for 2) ",
+    "price": "10.95",
+    "description": "Rice noodles with chicken and bean sprouts in a clear broth. Gluten-free."
+  }
+]

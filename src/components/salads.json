@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "House Salad ",
+    "price": "7.50",
+    "description": "Iceberg, tofu, carrots, broccoli, red onion, cauliflower, and tomato. Served with a spicy peanut dressing on the side."
+  },
+  {
+    "id": 2,
+    "name": "Yum Nua",
+    "price": "9.95",
+    "description": "Thai beef salad served with lettuce, cucumber, and tomato in a spicy lime dressing. Gluten-free.  Please specify – mild, medium, hot, Thai hot."
+  },
+  {
+    "id": 3,
+    "name": "Yum Woon Sen  ",
+    "price": "10.95",
+    "description": "Steamed bean thread noodles combined with minced chicken, shrimp, lettuce, cucumber, and tomato in a spicy lime dressing. Can also be made with tofu. Gluten-free. Please specify – mild, medium, hot, Thai hot."
+  },
+  {
+    "id": 4,
+    "name": "Yum Woon Sen ",
+    "price": "10.95",
+    "description": "Steamed bean thread noodles combined with minced chicken, shrimp, lettuce, cucumber, and tomato in a spicy lime dressing. Can also be made with tofu. Gluten-free."
+  }
+  
+]

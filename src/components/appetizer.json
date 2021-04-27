@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Thai Egg Rolls (2)",
+    "price": "3.95",
+    "description": "Made with carrots, cabbage , glass noodles, and yellow onions. Mixed pork and chicken"
+  },
+  {
+    "id": 2,
+    "name": "Spring Rolls (2)",
+    "price": "4.95",
+    "description": "Cabbage, cucumber, lettuce, rice noodle, carrot, bean sprout, and mint wrapped around with rice paper."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Satay",
+    "price": "7.95",
+    "description": "Perfectly grilled chicken satay skewers in the most flavorful marinade."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Satay",
+    "price": "7.95",
+    "description": "Perfectly grilled chicken satay skewers in the most flavorful marinade."
+  },
+  {
+    "id": 4,
+    "name": "Fried Shrimp",
+    "price": "4.95",
+    "description": "Deepfried Shrimp"
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Gyosa (6)",
+    "price": "7.95",
+    "description": "Pan-fried vegetable pot stickers"
+  },
+  {
+    "id": 6,
+    "name": "Tod Mun Pla",
+    "price": "9.55",
+    "description": "Fish patties blended with spices, green beans, and kaffir lime leaves. Served with a peanut topped, cucumber dipping sauce. Gluten-free."
+  },
+  {
+    "id": 7,
+    "name": "Stuffed Chicken Wings (for 2)  ",
+    "price": "11.25",
+    "description": "Golden fried chicken wings stuffed with minced pork and shrimp, bean thread noodles, and spices – highly recommended! Served with iceberg and house sauce. Allow extra time"
+  },
+  {
+    "id": 8,
+    "name": "Crab Cheese Wontons (6)",
+    "price": "7.95",
+    "description": ""
+  }
+]
