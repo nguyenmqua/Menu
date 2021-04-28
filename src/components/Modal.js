@@ -14,7 +14,7 @@ const ModalExample = (props) => {
 
   return (
     <div>
-      <Button color="info"className="categoryButton" block onClick={toggle}>{buttonLabel}</Button>
+      <Button color="white" className="categoryButton" block onClick={toggle}>{buttonLabel}</Button>
       <Modal isOpen={modal} toggle={toggle} >
         <ModalHeader className="category" toggle={toggle}>{buttonLabel}</ModalHeader>
         <ModalBody className="modalBody">
